@@ -1,0 +1,11 @@
+python-dbfread (2.0.7-2) unstable; urgency=medium
+
+  * Fixup the packaging repository URIs
+
+ -- Ghislain Antony Vaillant <ghisvail@gmail.com>  Fri, 17 Mar 2017 16:09:00 +0000
+
+python-dbfread (2.0.7-1) unstable; urgency=low
+
+  * Initial release. (Closes: #857813)
+
+ -- Ghislain Antony Vaillant <ghisvail@gmail.com>  Wed, 15 Mar 2017 18:48:15 +0000
